@@ -105,14 +105,9 @@
             <div class="row">
             <td>M1 
                 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo"><i class='bx bx-chevron-down'></i></button>
-                <div id="demo" class="collapse">
-                  <div class="column" style="border:2px solid blue">
-                  </div>
-                  <td>Team Name
-                  <div id="demo" class="collapse">
-                  <div class="column">
-                  <table>
-                    <thread>
+                <div id="demo" class="collapse"> 
+                <table>
+                  <thread>
                       <tr>
                     <th style="text-align:center">Task</th>
                     <th style="text-align:center">Score</th>
@@ -136,14 +131,18 @@
                       <td></td>
                       </tr>
                     </tbody>
-                  </table>
-                  </div>
-                  </td>  
+                  </table>              
+            
+              </div>   
+               
+            </td>
+            <td>Team Name
+            <div id="demo" class="collapse">    
+                 </td>
                 <td>Team Name</td>
                 <td></td>
                 <td></td>
                 </div>
-              </div>
               </tr>
 
               <tr>

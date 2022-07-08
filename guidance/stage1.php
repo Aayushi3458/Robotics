@@ -229,6 +229,12 @@
            <br>
            <sup>*</sup> Attach a copy of the transaction receipt as payment proof while completing the Stage I registration form.
            </p> 
+           <div>
+            <a href="http://www.ddrobocon.in/images/files/evaluation-stage1-05mar2022.pdf" target="_blank">
+            <button type="button" class="btn btn-primary">Stage 1 Result</button>
+            </a>
+           
+        </div>
         </div>
       </div>
     </section><!-- End Services Section -->

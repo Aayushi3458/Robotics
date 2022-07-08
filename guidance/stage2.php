@@ -134,7 +134,13 @@
                 <p style="text-align:left">All videos <b>should be</b> named as <b>“Team Name demonstrated mechanism”</b> to ensure proper evaluation and be in the <b>.mp4</b> or <b>.avi</b> format only.    
            </p>
                 <br>
-           </p> 
+           </p>
+           <div>
+            <a href="http://www.ddrobocon.in/images/files/evaluation-stage-2-result-14-5-2022.pdf" target="_blank">
+            <button type="button" class="btn btn-primary">Stage 2 Result</button>
+            </a>
+           
+        </div> 
         </div>
       </div>
     </section><!-- End Services Section -->
