@@ -11,7 +11,7 @@
 
   <!-- Favicons -->
   <link href="../assets/img/favicon.png" rel="icon">
-  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="../../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
@@ -88,6 +88,7 @@
         </div>
 
         <div class="formbox" style="background-color:white; border-radius:15px;box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);text-align:center;overflow-x:auto;">
+        
         <table class="table table-bordered">
           <thead>
             <tr>
@@ -102,12 +103,10 @@
       
             
           <tr>
-            <div class="row">
-            <td>M1 
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo"><i class='bx bx-chevron-down'></i></button>
-                <div id="demo" class="collapse"> 
+                <td>M1</td>
+                <td>
                 <table>
-                  <thread>
+                    <thread>
                       <tr>
                     <th style="text-align:center">Task</th>
                     <th style="text-align:center">Score</th>
@@ -131,18 +130,37 @@
                       <td></td>
                       </tr>
                     </tbody>
-                  </table>              
-            
-              </div>   
-               
-            </td>
-            <td>Team Name
-            <div id="demo" class="collapse">    
-                 </td>
-                <td>Team Name</td>
+                  </table>
+                </td>
+                <td> <table>
+                    <thread>
+                      <tr>
+                    <th style="text-align:center">Task</th>
+                    <th style="text-align:center">Score</th>
+                    <th style="text-align:center">Time</th>
+                     </tr>
+                    </thread>
+                    <tbody>
+                      <tr>
+                      <td>Piling</td>
+                      <td></td>
+                      <td></td>
+                      </tr>
+                      <tr>
+                      <td>Shooting</td>
+                      <td></td>
+                      <td></td>
+                      </tr>
+                      <tr>
+                      <td>Ball on Head</td>
+                      <td></td>
+                      <td></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
                 <td></td>
                 <td></td>
-                </div>
               </tr>
 
               <tr>
